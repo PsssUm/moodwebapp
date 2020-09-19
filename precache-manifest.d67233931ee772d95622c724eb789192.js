@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a9fb792680db408a4f655e6047a9b491",
+    "revision": "99ce5376c63cc3c7b4faeb331a59c417",
     "url": "/moodwebapp/index.html"
   },
   {
-    "revision": "e552d8ebeb904d7f9555",
+    "revision": "5b31aaed96337786eb26",
     "url": "/moodwebapp/static/css/2.2cfa1b23.chunk.css"
   },
   {
-    "revision": "6801f88e9e4217d69011",
+    "revision": "135413f0dbc83b5ddeb7",
     "url": "/moodwebapp/static/css/main.b627b3a4.chunk.css"
   },
   {
-    "revision": "e552d8ebeb904d7f9555",
-    "url": "/moodwebapp/static/js/2.12c8449a.chunk.js"
+    "revision": "5b31aaed96337786eb26",
+    "url": "/moodwebapp/static/js/2.04e16bb7.chunk.js"
   },
   {
     "revision": "86090c4a9b7c8c46458106d29649043a",
-    "url": "/moodwebapp/static/js/2.12c8449a.chunk.js.LICENSE"
+    "url": "/moodwebapp/static/js/2.04e16bb7.chunk.js.LICENSE"
   },
   {
-    "revision": "6801f88e9e4217d69011",
-    "url": "/moodwebapp/static/js/main.df996321.chunk.js"
+    "revision": "135413f0dbc83b5ddeb7",
+    "url": "/moodwebapp/static/js/main.52df882e.chunk.js"
   },
   {
     "revision": "e394a83f4427ecc5e33f",
