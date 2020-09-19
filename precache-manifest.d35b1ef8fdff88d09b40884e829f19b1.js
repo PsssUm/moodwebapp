@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99ce5376c63cc3c7b4faeb331a59c417",
+    "revision": "6824ca65295aee73b38e31454e3faa45",
     "url": "/moodwebapp/index.html"
   },
   {
-    "revision": "5b31aaed96337786eb26",
+    "revision": "181af69660f64585fc0d",
     "url": "/moodwebapp/static/css/2.2cfa1b23.chunk.css"
   },
   {
-    "revision": "135413f0dbc83b5ddeb7",
-    "url": "/moodwebapp/static/css/main.b627b3a4.chunk.css"
+    "revision": "8797d5efdf65cda87350",
+    "url": "/moodwebapp/static/css/main.6591c67d.chunk.css"
   },
   {
-    "revision": "5b31aaed96337786eb26",
-    "url": "/moodwebapp/static/js/2.04e16bb7.chunk.js"
+    "revision": "181af69660f64585fc0d",
+    "url": "/moodwebapp/static/js/2.0f42fbc6.chunk.js"
   },
   {
     "revision": "86090c4a9b7c8c46458106d29649043a",
-    "url": "/moodwebapp/static/js/2.04e16bb7.chunk.js.LICENSE"
+    "url": "/moodwebapp/static/js/2.0f42fbc6.chunk.js.LICENSE"
   },
   {
-    "revision": "135413f0dbc83b5ddeb7",
-    "url": "/moodwebapp/static/js/main.52df882e.chunk.js"
+    "revision": "8797d5efdf65cda87350",
+    "url": "/moodwebapp/static/js/main.813746c8.chunk.js"
   },
   {
     "revision": "e394a83f4427ecc5e33f",
@@ -150,6 +150,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4095d5b9e8d44d42e4f63ccf2ed0dd29",
     "url": "/moodwebapp/static/media/photo_humor_1.4095d5b9.png"
+  },
+  {
+    "revision": "4469a90f025fa58ed70acc79b095d7f5",
+    "url": "/moodwebapp/static/media/photo_it.4469a90f.png"
   },
   {
     "revision": "0669b282b025b0886880e420d6889511",
@@ -302,5 +306,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3ed5ff5e29ca7bef7b6e456f43761a39",
     "url": "/moodwebapp/static/media/topic_photo_calm_pressed.3ed5ff5e.svg"
+  },
+  {
+    "revision": "ec2e6db7724eb168fd7efc43aab1ac47",
+    "url": "/moodwebapp/static/media/topic_work_happy.ec2e6db7.svg"
+  },
+  {
+    "revision": "c785d2c9dd523011b5484063612bf233",
+    "url": "/moodwebapp/static/media/topic_work_happy_pressed.c785d2c9.svg"
   }
 ]);

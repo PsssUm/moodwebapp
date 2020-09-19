@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/moodwebapp/static/css/main.b627b3a4.chunk.css",
-    "main.js": "/moodwebapp/static/js/main.52df882e.chunk.js",
-    "main.js.map": "/moodwebapp/static/js/main.52df882e.chunk.js.map",
+    "main.css": "/moodwebapp/static/css/main.6591c67d.chunk.css",
+    "main.js": "/moodwebapp/static/js/main.813746c8.chunk.js",
+    "main.js.map": "/moodwebapp/static/js/main.813746c8.chunk.js.map",
     "runtime-main.js": "/moodwebapp/static/js/runtime-main.f4bfd09c.js",
     "runtime-main.js.map": "/moodwebapp/static/js/runtime-main.f4bfd09c.js.map",
     "static/css/2.2cfa1b23.chunk.css": "/moodwebapp/static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.04e16bb7.chunk.js": "/moodwebapp/static/js/2.04e16bb7.chunk.js",
-    "static/js/2.04e16bb7.chunk.js.map": "/moodwebapp/static/js/2.04e16bb7.chunk.js.map",
+    "static/js/2.0f42fbc6.chunk.js": "/moodwebapp/static/js/2.0f42fbc6.chunk.js",
+    "static/js/2.0f42fbc6.chunk.js.map": "/moodwebapp/static/js/2.0f42fbc6.chunk.js.map",
     "index.html": "/moodwebapp/index.html",
-    "precache-manifest.d67233931ee772d95622c724eb789192.js": "/moodwebapp/precache-manifest.d67233931ee772d95622c724eb789192.js",
+    "precache-manifest.d35b1ef8fdff88d09b40884e829f19b1.js": "/moodwebapp/precache-manifest.d35b1ef8fdff88d09b40884e829f19b1.js",
     "service-worker.js": "/moodwebapp/service-worker.js",
     "static/css/2.2cfa1b23.chunk.css.map": "/moodwebapp/static/css/2.2cfa1b23.chunk.css.map",
-    "static/css/main.b627b3a4.chunk.css.map": "/moodwebapp/static/css/main.b627b3a4.chunk.css.map",
-    "static/js/2.04e16bb7.chunk.js.LICENSE": "/moodwebapp/static/js/2.04e16bb7.chunk.js.LICENSE",
+    "static/css/main.6591c67d.chunk.css.map": "/moodwebapp/static/css/main.6591c67d.chunk.css.map",
+    "static/js/2.0f42fbc6.chunk.js.LICENSE": "/moodwebapp/static/js/2.0f42fbc6.chunk.js.LICENSE",
     "static/media/style.css": "/moodwebapp/static/media/SFProDisplay-Semibold.0538ddc9.ttf",
     "static/media/avatar.png": "/moodwebapp/static/media/avatar.b16827a4.png",
     "static/media/avatar_man.png": "/moodwebapp/static/media/avatar_man.0f0ee015.png",
@@ -42,6 +42,7 @@
     "static/media/photo_autumn_1.png": "/moodwebapp/static/media/photo_autumn_1.02543048.png",
     "static/media/photo_games.png": "/moodwebapp/static/media/photo_games.7eca41f2.png",
     "static/media/photo_humor_1.png": "/moodwebapp/static/media/photo_humor_1.4095d5b9.png",
+    "static/media/photo_it.png": "/moodwebapp/static/media/photo_it.4469a90f.png",
     "static/media/photo_kino_1.png": "/moodwebapp/static/media/photo_kino_1.0669b282.png",
     "static/media/photo_kino_2.png": "/moodwebapp/static/media/photo_kino_2.b92c452d.png",
     "static/media/photo_photo_1.png": "/moodwebapp/static/media/photo_photo_1.329b8f38.png",
@@ -79,13 +80,15 @@
     "static/media/topic_music_happy.svg": "/moodwebapp/static/media/topic_music_happy.66a6f593.svg",
     "static/media/topic_music_happy_pressed.svg": "/moodwebapp/static/media/topic_music_happy_pressed.2a57931d.svg",
     "static/media/topic_photo_calm.svg": "/moodwebapp/static/media/topic_photo_calm.fd0598dc.svg",
-    "static/media/topic_photo_calm_pressed.svg": "/moodwebapp/static/media/topic_photo_calm_pressed.3ed5ff5e.svg"
+    "static/media/topic_photo_calm_pressed.svg": "/moodwebapp/static/media/topic_photo_calm_pressed.3ed5ff5e.svg",
+    "static/media/topic_work_happy.svg": "/moodwebapp/static/media/topic_work_happy.ec2e6db7.svg",
+    "static/media/topic_work_happy_pressed.svg": "/moodwebapp/static/media/topic_work_happy_pressed.c785d2c9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f4bfd09c.js",
     "static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.04e16bb7.chunk.js",
-    "static/css/main.b627b3a4.chunk.css",
-    "static/js/main.52df882e.chunk.js"
+    "static/js/2.0f42fbc6.chunk.js",
+    "static/css/main.6591c67d.chunk.css",
+    "static/js/main.813746c8.chunk.js"
   ]
 }
