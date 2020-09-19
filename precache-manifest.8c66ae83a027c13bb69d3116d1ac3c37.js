@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ac33e647002b1788223bebd4ec13d48",
+    "revision": "f2e887e933dbd865e3f9fdcddfc2f8cf",
     "url": "/moodwebapp/index.html"
   },
   {
-    "revision": "00910fc2aa30e8428dac",
+    "revision": "dc09c226f9682ddbb123",
     "url": "/moodwebapp/static/css/2.2cfa1b23.chunk.css"
   },
   {
-    "revision": "07ad10fcc83321b3c3bb",
-    "url": "/moodwebapp/static/css/main.357e1706.chunk.css"
+    "revision": "207d6e1e6bdf48a9831c",
+    "url": "/moodwebapp/static/css/main.f06b226c.chunk.css"
   },
   {
-    "revision": "00910fc2aa30e8428dac",
-    "url": "/moodwebapp/static/js/2.c3247404.chunk.js"
+    "revision": "dc09c226f9682ddbb123",
+    "url": "/moodwebapp/static/js/2.bee2b324.chunk.js"
   },
   {
     "revision": "86090c4a9b7c8c46458106d29649043a",
-    "url": "/moodwebapp/static/js/2.c3247404.chunk.js.LICENSE"
+    "url": "/moodwebapp/static/js/2.bee2b324.chunk.js.LICENSE"
   },
   {
-    "revision": "07ad10fcc83321b3c3bb",
-    "url": "/moodwebapp/static/js/main.f78ffe92.chunk.js"
+    "revision": "207d6e1e6bdf48a9831c",
+    "url": "/moodwebapp/static/js/main.00326bc4.chunk.js"
   },
   {
     "revision": "e394a83f4427ecc5e33f",
@@ -58,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "42e834477cd6372f01c59050419632ad",
     "url": "/moodwebapp/static/media/back.42e83447.svg"
+  },
+  {
+    "revision": "f33b0951661c204389266ac2a16e6061",
+    "url": "/moodwebapp/static/media/button_planet.f33b0951.svg"
   },
   {
     "revision": "9d807fb76f683e3641825cb65674d521",
@@ -100,20 +104,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moodwebapp/static/media/ic_reposts.fc056f8a.svg"
   },
   {
-    "revision": "bdf35ace48231ebbb90c48c7482e1a2f",
-    "url": "/moodwebapp/static/media/mood_calm.bdf35ace.svg"
+    "revision": "fff6787a0fa51028a8ec6c5678b11a19",
+    "url": "/moodwebapp/static/media/mood_calm.fff6787a.svg"
   },
   {
-    "revision": "3945d9229d208715026b236533707d3e",
-    "url": "/moodwebapp/static/media/mood_energy.3945d922.svg"
+    "revision": "f79678d290a3603bfc4dccc4dc15805c",
+    "url": "/moodwebapp/static/media/mood_energy.f79678d2.svg"
   },
   {
-    "revision": "4a59fcd74de4d7771aa717d90fe9c3aa",
-    "url": "/moodwebapp/static/media/mood_happy.4a59fcd7.svg"
+    "revision": "8e274f38a3e4c295f84327ac8ccf531c",
+    "url": "/moodwebapp/static/media/mood_happy.8e274f38.svg"
   },
   {
-    "revision": "766a7147b1e0af5a85ca090ab3eec134",
-    "url": "/moodwebapp/static/media/mood_sad.766a7147.svg"
+    "revision": "a339754d6b8ba8f516a58a97fa7ff4bb",
+    "url": "/moodwebapp/static/media/mood_sad.a339754d.svg"
   },
   {
     "revision": "e88280461f2e58791f56ae0ddfdedade",
