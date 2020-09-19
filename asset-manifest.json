@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/moodwebapp/static/css/main.26fd4460.chunk.css",
-    "main.js": "/moodwebapp/static/js/main.b58d0700.chunk.js",
-    "main.js.map": "/moodwebapp/static/js/main.b58d0700.chunk.js.map",
+    "main.js": "/moodwebapp/static/js/main.b2ce2a30.chunk.js",
+    "main.js.map": "/moodwebapp/static/js/main.b2ce2a30.chunk.js.map",
     "runtime-main.js": "/moodwebapp/static/js/runtime-main.f4bfd09c.js",
     "runtime-main.js.map": "/moodwebapp/static/js/runtime-main.f4bfd09c.js.map",
     "static/css/2.2cfa1b23.chunk.css": "/moodwebapp/static/css/2.2cfa1b23.chunk.css",
     "static/js/2.bee2b324.chunk.js": "/moodwebapp/static/js/2.bee2b324.chunk.js",
     "static/js/2.bee2b324.chunk.js.map": "/moodwebapp/static/js/2.bee2b324.chunk.js.map",
     "index.html": "/moodwebapp/index.html",
-    "precache-manifest.88b19592cd787517238b346b650df4e0.js": "/moodwebapp/precache-manifest.88b19592cd787517238b346b650df4e0.js",
+    "precache-manifest.4ea434a809709ac4d13ff1fde5e3ebe4.js": "/moodwebapp/precache-manifest.4ea434a809709ac4d13ff1fde5e3ebe4.js",
     "service-worker.js": "/moodwebapp/service-worker.js",
     "static/css/2.2cfa1b23.chunk.css.map": "/moodwebapp/static/css/2.2cfa1b23.chunk.css.map",
     "static/css/main.26fd4460.chunk.css.map": "/moodwebapp/static/css/main.26fd4460.chunk.css.map",
@@ -90,6 +90,6 @@
     "static/css/2.2cfa1b23.chunk.css",
     "static/js/2.bee2b324.chunk.js",
     "static/css/main.26fd4460.chunk.css",
-    "static/js/main.b58d0700.chunk.js"
+    "static/js/main.b2ce2a30.chunk.js"
   ]
 }

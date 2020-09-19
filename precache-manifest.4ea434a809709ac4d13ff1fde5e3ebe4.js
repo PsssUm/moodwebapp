@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "74fb0efdb655b9baecef2c14b9ef2a14",
+    "revision": "049d9970c4a9bd9335ebaf5f89a05f5d",
     "url": "/moodwebapp/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moodwebapp/static/css/2.2cfa1b23.chunk.css"
   },
   {
-    "revision": "26da6d19c9dde9a293e2",
+    "revision": "92fb64bfdc80d3fb2cbf",
     "url": "/moodwebapp/static/css/main.26fd4460.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moodwebapp/static/js/2.bee2b324.chunk.js.LICENSE"
   },
   {
-    "revision": "26da6d19c9dde9a293e2",
-    "url": "/moodwebapp/static/js/main.b58d0700.chunk.js"
+    "revision": "92fb64bfdc80d3fb2cbf",
+    "url": "/moodwebapp/static/js/main.b2ce2a30.chunk.js"
   },
   {
     "revision": "e394a83f4427ecc5e33f",
