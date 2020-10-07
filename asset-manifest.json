@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/moodwebapp/static/css/main.26fd4460.chunk.css",
-    "main.js": "/moodwebapp/static/js/main.b2ce2a30.chunk.js",
-    "main.js.map": "/moodwebapp/static/js/main.b2ce2a30.chunk.js.map",
+    "main.css": "/moodwebapp/static/css/main.64c4928d.chunk.css",
+    "main.js": "/moodwebapp/static/js/main.5b238bd9.chunk.js",
+    "main.js.map": "/moodwebapp/static/js/main.5b238bd9.chunk.js.map",
     "runtime-main.js": "/moodwebapp/static/js/runtime-main.f4bfd09c.js",
     "runtime-main.js.map": "/moodwebapp/static/js/runtime-main.f4bfd09c.js.map",
     "static/css/2.2cfa1b23.chunk.css": "/moodwebapp/static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.bee2b324.chunk.js": "/moodwebapp/static/js/2.bee2b324.chunk.js",
-    "static/js/2.bee2b324.chunk.js.map": "/moodwebapp/static/js/2.bee2b324.chunk.js.map",
+    "static/js/2.4cfb64ff.chunk.js": "/moodwebapp/static/js/2.4cfb64ff.chunk.js",
+    "static/js/2.4cfb64ff.chunk.js.map": "/moodwebapp/static/js/2.4cfb64ff.chunk.js.map",
     "index.html": "/moodwebapp/index.html",
-    "precache-manifest.4ea434a809709ac4d13ff1fde5e3ebe4.js": "/moodwebapp/precache-manifest.4ea434a809709ac4d13ff1fde5e3ebe4.js",
+    "precache-manifest.feb276495fe1a668e6f037206319191a.js": "/moodwebapp/precache-manifest.feb276495fe1a668e6f037206319191a.js",
     "service-worker.js": "/moodwebapp/service-worker.js",
     "static/css/2.2cfa1b23.chunk.css.map": "/moodwebapp/static/css/2.2cfa1b23.chunk.css.map",
-    "static/css/main.26fd4460.chunk.css.map": "/moodwebapp/static/css/main.26fd4460.chunk.css.map",
-    "static/js/2.bee2b324.chunk.js.LICENSE": "/moodwebapp/static/js/2.bee2b324.chunk.js.LICENSE",
+    "static/css/main.64c4928d.chunk.css.map": "/moodwebapp/static/css/main.64c4928d.chunk.css.map",
+    "static/js/2.4cfb64ff.chunk.js.LICENSE": "/moodwebapp/static/js/2.4cfb64ff.chunk.js.LICENSE",
     "static/media/style.css": "/moodwebapp/static/media/SFProDisplay-Semibold.0538ddc9.ttf",
+    "static/media/add_white.svg": "/moodwebapp/static/media/add_white.dba2cdd8.svg",
     "static/media/avatar.png": "/moodwebapp/static/media/avatar.b16827a4.png",
     "static/media/avatar_man.png": "/moodwebapp/static/media/avatar_man.0f0ee015.png",
     "static/media/avatar_woman_2.png": "/moodwebapp/static/media/avatar_woman_2.134f314a.png",
@@ -88,8 +89,8 @@
   "entrypoints": [
     "static/js/runtime-main.f4bfd09c.js",
     "static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.bee2b324.chunk.js",
-    "static/css/main.26fd4460.chunk.css",
-    "static/js/main.b2ce2a30.chunk.js"
+    "static/js/2.4cfb64ff.chunk.js",
+    "static/css/main.64c4928d.chunk.css",
+    "static/js/main.5b238bd9.chunk.js"
   ]
 }

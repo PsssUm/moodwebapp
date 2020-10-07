@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "049d9970c4a9bd9335ebaf5f89a05f5d",
+    "revision": "3ef05dde2608ccd1fb0d90f09a8c8130",
     "url": "/moodwebapp/index.html"
   },
   {
-    "revision": "dc09c226f9682ddbb123",
+    "revision": "55c085dd1359dbb5264d",
     "url": "/moodwebapp/static/css/2.2cfa1b23.chunk.css"
   },
   {
-    "revision": "92fb64bfdc80d3fb2cbf",
-    "url": "/moodwebapp/static/css/main.26fd4460.chunk.css"
+    "revision": "286cf7338785ce1d1bbc",
+    "url": "/moodwebapp/static/css/main.64c4928d.chunk.css"
   },
   {
-    "revision": "dc09c226f9682ddbb123",
-    "url": "/moodwebapp/static/js/2.bee2b324.chunk.js"
+    "revision": "55c085dd1359dbb5264d",
+    "url": "/moodwebapp/static/js/2.4cfb64ff.chunk.js"
   },
   {
-    "revision": "86090c4a9b7c8c46458106d29649043a",
-    "url": "/moodwebapp/static/js/2.bee2b324.chunk.js.LICENSE"
+    "revision": "fdfd0d495b63ec5c5ef9b7b921f2ea17",
+    "url": "/moodwebapp/static/js/2.4cfb64ff.chunk.js.LICENSE"
   },
   {
-    "revision": "92fb64bfdc80d3fb2cbf",
-    "url": "/moodwebapp/static/js/main.b2ce2a30.chunk.js"
+    "revision": "286cf7338785ce1d1bbc",
+    "url": "/moodwebapp/static/js/main.5b238bd9.chunk.js"
   },
   {
     "revision": "e394a83f4427ecc5e33f",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0538ddc92082d2ef2e7b375519825dac",
     "url": "/moodwebapp/static/media/SFProDisplay-Semibold.0538ddc9.ttf"
+  },
+  {
+    "revision": "dba2cdd83188c40d4e9ba82e3c1c138f",
+    "url": "/moodwebapp/static/media/add_white.dba2cdd8.svg"
   },
   {
     "revision": "b16827a47adbaf1d94a2261ba1cd7611",
